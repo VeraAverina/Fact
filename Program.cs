@@ -7,7 +7,9 @@ namespace Fact
     {
         public static long Fact(long n)
         {
-            if (n == 0)
+            if (n < 0)
+                throw new Exception();
+            if (n == 0) 
                 return 1;
             else
                 return n * Fact(n - 1);
