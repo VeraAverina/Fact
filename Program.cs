@@ -17,7 +17,7 @@ namespace Fact
         {
             int num  = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine(Fact(num));
+            Console.WriteLine(Factorial(num));
         }
     }
 }
