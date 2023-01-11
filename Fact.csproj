@@ -7,8 +7,11 @@
 
   <ItemGroup>
     <Compile Remove="TestFact\**" />
+    <Compile Remove="TestMSTest\**" />
     <EmbeddedResource Remove="TestFact\**" />
+    <EmbeddedResource Remove="TestMSTest\**" />
     <None Remove="TestFact\**" />
+    <None Remove="TestMSTest\**" />
   </ItemGroup>
 
 </Project>
