@@ -1,0 +1,15 @@
+C:\Users\Vera\source\repos\Fact\obj\Debug\net6.0\Fact.csproj.AssemblyReference.cache
+C:\Users\Vera\source\repos\Fact\obj\Debug\net6.0\Fact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vera\source\repos\Fact\obj\Debug\net6.0\Fact.AssemblyInfoInputs.cache
+C:\Users\Vera\source\repos\Fact\obj\Debug\net6.0\Fact.AssemblyInfo.cs
+C:\Users\Vera\source\repos\Fact\obj\Debug\net6.0\Fact.csproj.CoreCompileInputs.cache
+C:\Users\Vera\source\repos\Fact\bin\Debug\net6.0\Fact.exe
+C:\Users\Vera\source\repos\Fact\bin\Debug\net6.0\Fact.deps.json
+C:\Users\Vera\source\repos\Fact\bin\Debug\net6.0\Fact.runtimeconfig.json
+C:\Users\Vera\source\repos\Fact\bin\Debug\net6.0\Fact.dll
+C:\Users\Vera\source\repos\Fact\bin\Debug\net6.0\Fact.pdb
+C:\Users\Vera\source\repos\Fact\obj\Debug\net6.0\Fact.dll
+C:\Users\Vera\source\repos\Fact\obj\Debug\net6.0\refint\Fact.dll
+C:\Users\Vera\source\repos\Fact\obj\Debug\net6.0\Fact.pdb
+C:\Users\Vera\source\repos\Fact\obj\Debug\net6.0\Fact.genruntimeconfig.cache
+C:\Users\Vera\source\repos\Fact\obj\Debug\net6.0\ref\Fact.dll
