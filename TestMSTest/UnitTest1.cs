@@ -10,14 +10,14 @@ namespace TestMSTest
             Assert.AreEqual(1L,f0);
         }
         [TestMethod]
-        public void Test2()
+        public void TestMethod2()
         {
             long f0 = Fact.Program.Fact(5);
-            Assert.AreEqual(120L, f0);
+            Assert.AreEqual(12L, f0);
         }
 
         [TestMethod]
-        public void Test3()
+        public void TestMethod3()
         {
             Exception exc = null;
             try
