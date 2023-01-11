@@ -13,7 +13,7 @@ namespace TestMSTest
         public void TestMethod2()
         {
             long f0 = Fact.Program.Fact(5);
-            Assert.AreEqual(12L, f0);
+            Assert.AreEqual(120L, f0);
         }
 
         [TestMethod]
